@@ -61,10 +61,6 @@ def attack():
     payload = generate_payload()
     pyperclip.copy(payload)  # kindly copy to clipboard
 
-    f = open("/mnt/share/PAYLOAD.txt", "w")
-    f.write(payload)
-    f.close()
-
 
 if __name__ == "__main__":
     # set target info
