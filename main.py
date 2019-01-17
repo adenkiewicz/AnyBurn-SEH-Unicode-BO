@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# _NOT WORKING_ AnyBurn 4.3 exploit based on:
+# AnyBurn 4.3 exploit based on:
 # * pwntools
 # * metasploit reverse_tcp payload
 # * alpha2 encoder
